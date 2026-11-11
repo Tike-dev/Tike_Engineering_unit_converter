@@ -62,4 +62,5 @@ Enter your choice: 9
 - Applying unit-conversion formulas in a practical program
 
 ## Author
-Add your full name, department and institution here.
+Oloruntayo Timileyin Paul ND1 MECHATRONICS ENGINEERING 
+YABA COLLEGE OF TECHNOLOGY (YABA TECH)
